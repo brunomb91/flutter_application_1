@@ -16,7 +16,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
-void nada() {
-  print("nada");
-}
